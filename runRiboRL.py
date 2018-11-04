@@ -207,7 +207,7 @@ if __name__ == "__main__":
         "max_epochs":10000,
         "n_repeat":10,
         "filter_list":[6,8,10],
-        "device_ids":[0,1,2,3],
+        "device_ids":[0],
         "MAX_NORM":3,
         'clip_grad':0.25
 
